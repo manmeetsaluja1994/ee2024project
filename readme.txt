@@ -1,6 +1,6 @@
-demo
+EE2024 Hardware project
 =====================
-This project contains a an example using several of the peripherals
+This project contains a flight flutter system implemented using several of the peripherals
 on the LPCXpresso base Board.
 
 With the joystick it is possible to draw on the OLED display
@@ -16,4 +16,6 @@ The project makes use of code from the following library projects:
 
 These library projects must exist in the same workspace in order
 for the project to successfully build.
+
+Built by Manmeet Singh Saluja and Ihsanuddin Rowther
 
